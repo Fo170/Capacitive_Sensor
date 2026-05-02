@@ -1,0 +1,31 @@
+{
+  "name": "Capacitive_Sensor",
+  "version": "1.0.0",
+  "description": "Arduino library for capacitive soil moisture sensors - calculates soil humidity percentage from sensor voltage",
+  "keywords": "arduino, sensor, moisture, soil, capacitive, agriculture, garden",
+  "authors": [
+    {
+      "name": "Olivier FOURNET",
+      "email": "olivier.fournet@free.fr",
+      "url": "https://github.com/Fo170"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fo170/Capacitive_Sensor.git"
+  },
+  "homepage": "https://github.com/Fo170/Capacitive_Sensor",
+  "download": "https://github.com/Fo170/Capacitive_Sensor/archive/refs/heads/main.zip",
+  "boards": "*",
+  "frameworks": "arduino",
+  "headers": "Capacitive_Sensor.h",
+  "examples": [
+    {
+      "name": "Basic Usage",
+      "base": "examples/Basic_Usage",
+      "files": [
+        "examples/Basic_Usage/Basic_Usage.ino"
+      ]
+    }
+  ]
+}
