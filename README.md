@@ -1,8 +1,9 @@
 # Capacitive_Sensor
 
-![Arduino](https://img.shields.io/badge/Arduino-IDE-00979C?style=flat&logo=arduino)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-EE6C4D?style=flat&logo=platformio)
-![License](https://img.shields.io/badge/License-MIT-green)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Arduino Badge](https://img.shields.io/badge/framework-arduino-brightgreen?logo=arduino.svg)](https://www.arduino.cc/)
+[![PlatformIO](https://img.shields.io/badge/platformio-All_µC-violet?logo=platformio)](https://platformio.org/)
+[![Arduino Library Badge](https://www.ardu-badge.com/badge/Capacitive_Sensor.svg)](https://github.com/Fo170?tab=repositories)
 
 Arduino library for capacitive soil moisture sensors - calculates soil humidity percentage from sensor voltage.
 
@@ -136,7 +137,7 @@ Voir le dossier [examples/](examples/) pour plus d'exemples.
 
 ## Licence
 
-MIT License - voir [LICENSE](LICENSE)
+License: GPL v3 - voir [LICENSE](LICENSE)
 
 ## Auteur
 
