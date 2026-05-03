@@ -60,7 +60,7 @@ Les valeurs par défaut sont :
 - **Sol sec** (hors de terre) : ~1.696V → 0%
 - **Sol trempé** : ~1.087V → 100%
 
-> ⚠️ **Important** : Ces valeurs peuvent varier selon le capteurs et l'environnement. Il est recommandé de calibrate votre propre capteurs.
+> ⚠️ **Important** : Ces valeurs peuvent varier selon le capteurs et l'environnement. Il est recommandé de calibré votre propre capteurs.
 
 ## Utilisation
 
