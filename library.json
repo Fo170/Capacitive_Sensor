@@ -1,6 +1,6 @@
 {
   "name": "Capacitive_Sensor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Arduino library for capacitive soil moisture sensors - calculates soil humidity percentage from sensor voltage",
   "keywords": "arduino, sensor, moisture, soil, capacitive, agriculture, garden",
   "authors": [
