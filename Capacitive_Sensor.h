@@ -1,3 +1,6 @@
+// Version de la librairie (source UNIQUE — agrégée par liste_lib.h)
+#define __CAPACITIVE_SENSOR_H_VERSION__ "1.0.0"
+
 /**
  * @file Capacitive_Sensor.h
  * @author FOURNET Olivier (olivier.fournet@free.fr)
